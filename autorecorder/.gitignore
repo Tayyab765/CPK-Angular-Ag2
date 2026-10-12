@@ -1,0 +1,9 @@
+
+# nodemodules
+/node_modules
+node_modules/
+
+
+# videos
+/videos
+videos/
